@@ -1,0 +1,10 @@
+Lead Name,Email Address,Phone Number,Company Name,City,State,Country,Source,Status,Notes,Date
+John Doe,john.doe@example.com,9876543210,GrowEasy,Mumbai,Maharashtra,India,Facebook Lead,New Lead,Client is asking to reschedule demo,2026-05-13
+Sarah Johnson,sarah.johnson@example.com,+44 7911 123456,Tech Solutions,Bangalore,Karnataka,India,Google Ads,Follow Up,Person was busy will try again next week,2026-05-13
+Rajesh Patel,rajesh.patel@example.com,+91 9876543212,Startup Inc,Delhi,Delhi,India,Referral,Not Interested,Not interested in our services,2026-05-13
+Priya Singh,priya.singh@example.com,9876543213,Enterprise Corp,Pune,Maharashtra,India,Website,Closed Won,Deal closed onboarding in progress,2026-05-13
+Amit Kumar,,9876543214,Acme Corp,Hyderabad,Telangana,India,Excel Import,New Lead,Contact via phone only,2026-05-14
+Maria Garcia,maria@garcia.com,,Barcelona Inc,Madrid,,Spain,LinkedIn,New Lead,International lead no phone,2026-05-14
+Suresh Reddy,suresh@reddy.com,+91 7777788888;+91 9999900000,Reddy Properties,Bangalore,Karnataka,India,leads_on_demand,Hot Lead,Two phone numbers provided; interested in sarjapur_plots,2026-05-15
+,invalid-email,,Broken Data,,,,,No name or phone,2026-05-15
+Deepa Menon,deepa.menon@test.org,+918888877777,IT Solutions,Chennai,Tamil Nadu,India,eden_park,New Lead; deepa.alt@test.com,Old email: deepa.alt@test.com,2026-05-16

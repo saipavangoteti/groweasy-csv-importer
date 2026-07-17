@@ -50,7 +50,7 @@ export async function extractWithGemini(records: Record<string, string>[]) {
   if (!key) throw new Error("GEMINI_API_KEY not configured. Add it in Vercel environment variables.");
 
   const genAI = new GoogleGenerativeAI(key);
-  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash", systemInstruction: buildSystemPrompt() });
+  const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash", systemInstruction: buildSystemPrompt() });
 
   const batchSize = 20;
   const allResults: Record<string, unknown>[] = [];
